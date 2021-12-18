@@ -1,2 +1,2 @@
-# JamesErvinSkinner.github.io
+# JamesErwinSkinner.github.io
 Personal GitHub website
